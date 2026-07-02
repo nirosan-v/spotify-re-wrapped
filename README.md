@@ -30,7 +30,7 @@ Generate Insights
 
 ## Dashboard
 
-![Spotify Dashboard](images/spotify-re-wrapped-dashboard.png)
+![Spotify Dashboard](/spotify-re-wrapped-dashboard.png)
 
 ## Key Insights
 
