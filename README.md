@@ -12,6 +12,12 @@ The dashboard explores listening behaviour through interactive visualisations, u
 - Excel
 - JSON
 
+## Power BI Report
+
+The complete Power BI report (`Spotify Listening Analysis.pbix`) is included in this repository.
+
+> Download the `.pbix` file to explore the dashboard, Power Query transformations, data model and DAX measures.
+
 ## Workflow
 
 ```text
@@ -38,13 +44,6 @@ Generate Insights
 - Compared listening hours against play count to better represent listening habits.
 - Identified trends across years, weekdays and hours of the day.
 - Built an interactive dashboard to explore artists, tracks and listening behaviour.
-
-## Repository Contents
-
-- `Spotify Listening Analysis.pbix` — Complete Power BI report including the data model, Power Query transformations and DAX measures.
-- `images/` — Dashboard screenshots used in this project.
-
-> **Note:** The original dataset is not included as it contains personal listening history. You can request your own Spotify Extended Streaming History directly from Spotify.
 
 ## Future Improvements
 
