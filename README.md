@@ -36,17 +36,17 @@ Generate Insights
 
 ## Dashboard
 
-![Spotify Dashboard](/spotify-re-wrapped-dashboard.png)
+![Spotify Dashboard](spotify-re-wrapped-dashboard.png)
 
 ## Key Insights
 
 - Analysed over 8 years of Spotify listening history.
-- Compared listening hours against play count to better represent listening habits.
+- Compared listening hours against play count to provide a more meaningful measure of listening behaviour.
 - Identified trends across years, weekdays and hours of the day.
 - Built an interactive dashboard to explore artists, tracks and listening behaviour.
 
 ## Future Improvements
 
 - Spotify API integration for more data rich analysis.
-- A weighted scoring model to track artist changes over time.
+- A weighted scoring model to track artist ranking changes over time.
 - Publish an interactive web version.
